@@ -1,6 +1,6 @@
 # Sentiment analysis of r/wallstreetbets during the GameStop saga
 
-This project uses Sentiment Analysis to examine the correlation between GameStop($GME)’s stock price and the massive surge in social media attention that the organisation experienced.
+This project done as part of coursework uses Sentiment Analysis to examine the correlation between GameStop($GME)’s stock price and the massive surge in social media attention that the organisation experienced.
 
 ## Objectives
 
@@ -31,7 +31,7 @@ This project uses Sentiment Analysis to examine the correlation between GameStop
 There are mainly two Jupyter notebooks included in this repository
 
 * **Data_Exploration.ipynb** -  This notebook contains the data exploration that was done as part of this project.
-* **ML_Models.ipynb** -  This notebook contains the ML Models and other analysis that was done as part of this project.
+* **ML_Models.ipynb** -  This notebook contains the ML Models and other analysis that was done as part of this project. Logistic Regression, Linear SVC and Multinomial Naïve Bayes were the models used. This file also contains comparison of these models, their confusion matrix and other relevant visualisations.
 
 *P.S. -  Read the **Report.pdf** to know more about this project and conclusions*.
 

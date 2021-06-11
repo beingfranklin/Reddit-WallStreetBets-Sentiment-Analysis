@@ -1,6 +1,6 @@
 # Sentiment analysis of r/wallstreetbets during the GameStop saga
 
-This project done as part of university coursework uses Sentiment Analysis to examine the correlation between GameStop($GME)’s stock price and the massive surge in social media attention that the organisation experienced.
+This project, done as part of university coursework, uses Sentiment Analysis to examine the correlation between GameStop($GME)’s stock price and the massive surge in social media attention that the organisation experienced.
 
 ## Objectives
 
